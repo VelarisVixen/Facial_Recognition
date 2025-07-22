@@ -23,7 +23,7 @@ This project uses deep learning to classify grayscale 48x48 pixel facial images 
 ## 🗂 Folder Structure
 
 ```
-fer2013-cnn/
+face_recognition/
 ├── data_preprocessing/       # Data cleaning, reshaping, and splitting
 │   └── prepare_data.py
 ├── training/                 # CNN model architecture and training loop
@@ -109,5 +109,4 @@ MIT License – do anything you want with attribution.
 
 ## 🙋‍♀️ Author
 
-Developed by **Aahana Kaur**  
-Feel free to connect on [LinkedIn](https://linkedin.com) or reach out for collaborations.
+Developed by **Aahana **
